@@ -1,0 +1,30 @@
+# Phase 1 – Brainstorming & Ideation
+
+## Project Title
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+## Problem Statement
+In some applications, users should not be allowed to access all records.
+Access needs to be controlled based on specific field values.
+A proper access control mechanism is required to restrict unauthorized
+record access.
+
+## Proposed Solution
+The project uses Script-Controlled Access Control Lists (ACLs) to restrict
+record access based on the value of a specific field. The ACL script checks
+the field value and allows or denies access accordingly.
+
+## Project Objective
+- To control access to records based on field values.
+- To prevent unauthorized users from accessing restricted records.
+- To implement field-based access control using ACL scripting.
+- To improve data security and privacy.
+
+## Expected Outcome
+The system should allow authorized users to access the required records
+while restricting access to records that do not meet the defined field
+conditions.
+
+## Key Idea
+The main idea is to use a scripted ACL that evaluates a field value before
+granting access to a record.
