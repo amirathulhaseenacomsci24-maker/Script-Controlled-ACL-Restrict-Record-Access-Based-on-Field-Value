@@ -1,0 +1,29 @@
+PHASE 8 – PROJECT DEMONSTRATION
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+Demonstration Contents:
+
+1. Introduction to the project.
+2. Project purpose and objective.
+3. ServiceNow application and configuration.
+4. ACL configuration.
+5. ACL script implementation.
+6. Demonstration of the field value condition.
+7. Demonstration of allowed record access.
+8. Demonstration of restricted record access.
+9. Final output and project result.
+
+Demo Video:
+
+A complete project demonstration video has been prepared with screen
+sharing and voice-over explanation.
+
+The demonstration explains the project name, purpose, benefits,
+implementation process, working process, and final output.
+
+Expected Final Result:
+
+The system should allow access when the required field condition is
+satisfied and restrict access when the condition is not satisfied.

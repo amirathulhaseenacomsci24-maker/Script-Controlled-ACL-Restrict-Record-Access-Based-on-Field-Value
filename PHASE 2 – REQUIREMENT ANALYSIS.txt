@@ -1,0 +1,23 @@
+PHASE 2 – REQUIREMENT ANALYSIS
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+Functional Requirements:
+1. The system should provide access control for records.
+2. The system should check the value of a specific field.
+3. The ACL script should allow access when the required condition is satisfied.
+4. The ACL script should restrict access when the condition is not satisfied.
+5. The system should protect restricted records from unauthorized access.
+
+Non-Functional Requirements:
+1. The access control mechanism should be secure.
+2. The system should provide consistent access control.
+3. The ACL script should be simple and maintainable.
+4. The system should respond efficiently to access requests.
+
+Tools and Technologies:
+- ServiceNow
+- ACL (Access Control List)
+- JavaScript
+- Scripting

@@ -1,0 +1,28 @@
+PHASE 4 – PROJECT PLANNING
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+Project Plan:
+
+1. Understand the project requirement.
+2. Identify the table and field used for access control.
+3. Design the ACL access condition.
+4. Create and configure the ACL in ServiceNow.
+5. Develop the required ACL script.
+6. Test access with different field values and users.
+7. Document the implementation and results.
+8. Prepare the project demonstration.
+
+Team Activities:
+- Requirement understanding
+- Project design
+- ServiceNow configuration
+- ACL scripting
+- Testing
+- Documentation
+- Demonstration
+
+Expected Deliverable:
+A working ServiceNow ACL implementation that restricts record access
+based on a specified field value.

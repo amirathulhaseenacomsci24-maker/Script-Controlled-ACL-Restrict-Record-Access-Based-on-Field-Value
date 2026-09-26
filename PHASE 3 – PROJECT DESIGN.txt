@@ -1,0 +1,38 @@
+PHASE 3 – PROJECT DESIGN
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+System Design:
+
+The project uses a Script-Controlled Access Control List (ACL) in ServiceNow.
+The ACL evaluates the value of a selected field before allowing a user to
+access a record.
+
+Design Flow:
+
+User Request
+      ↓
+ServiceNow Record
+      ↓
+ACL Rule
+      ↓
+Check Field Value
+      ↓
+Condition Satisfied?
+   ↙          ↘
+ Yes           No
+ ↓             ↓
+Allow Access   Restrict Access
+
+Main Components:
+1. ServiceNow Application
+2. Target Table
+3. Target Field
+4. ACL Rule
+5. ACL Script
+6. User Access Control
+
+Security Design:
+The ACL acts as a security layer and prevents unauthorized users from
+accessing records that do not satisfy the required field condition.

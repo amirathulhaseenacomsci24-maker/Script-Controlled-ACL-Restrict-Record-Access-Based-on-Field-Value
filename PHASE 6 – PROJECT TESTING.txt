@@ -1,0 +1,26 @@
+PHASE 6 – PROJECT TESTING
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+Testing Objective:
+
+To verify that the ACL correctly allows or restricts record access based
+on the specified field value.
+
+Test Case 1:
+Condition: Field value satisfies the required condition.
+Expected Result: User should be allowed to access the record.
+
+Test Case 2:
+Condition: Field value does not satisfy the required condition.
+Expected Result: User access should be restricted.
+
+Test Case 3:
+Condition: Unauthorized access attempt.
+Expected Result: Restricted record should not be accessible.
+
+Testing Result:
+
+The ACL should correctly evaluate the field value and provide access only
+when the defined condition is satisfied.

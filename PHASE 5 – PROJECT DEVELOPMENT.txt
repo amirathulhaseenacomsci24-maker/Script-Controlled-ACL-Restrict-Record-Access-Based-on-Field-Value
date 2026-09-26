@@ -1,0 +1,26 @@
+PHASE 5 – PROJECT DEVELOPMENT
+
+Project Title:
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+Development Process:
+
+1. Open the ServiceNow development environment.
+2. Identify the required table and field.
+3. Create the required Access Control List (ACL).
+4. Configure the required access condition.
+5. Add the ACL script to evaluate the field value.
+6. Save and activate the ACL configuration.
+7. Test the record access behaviour.
+8. Make required corrections based on testing.
+
+Implementation Concept:
+
+The ACL script checks the value of the selected field. If the field value
+matches the defined condition, access is allowed. If the condition is not
+satisfied, access is restricted.
+
+Technology Used:
+- ServiceNow
+- ACL
+- JavaScript
